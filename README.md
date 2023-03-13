@@ -27,4 +27,4 @@
 <li> Validação de dados 
 <li> Requisição metodo AJAX
 
-:file_folder: o resultado final pode ser conferido aqui: https://willmpaim.github.io/trabalhando-JS/
+:file_folder: o resultado final pode ser conferido aqui: https://willmpaim.github.io/trabalhando-js/
